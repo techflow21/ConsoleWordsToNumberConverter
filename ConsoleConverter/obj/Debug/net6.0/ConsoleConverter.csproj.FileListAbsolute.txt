@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\bin\Debug\net6.0\ConsoleConverter.exe
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\bin\Debug\net6.0\ConsoleConverter.deps.json
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\bin\Debug\net6.0\ConsoleConverter.runtimeconfig.json
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\bin\Debug\net6.0\ConsoleConverter.dll
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\bin\Debug\net6.0\ConsoleConverter.pdb
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.dll
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\refint\ConsoleConverter.dll
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.pdb
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ConsoleConverter.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewM\ConsoleConverter\ConsoleConverter\obj\Debug\net6.0\ref\ConsoleConverter.dll
